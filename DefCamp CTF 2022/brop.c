@@ -30,3 +30,4 @@ int check(){
     read(STDIN_FILENO,buf,1024);
 
     return strcmp(buf,"aslvkm;asd;alsfm;aoeim;wnv;lasdnvdljasd;flk");
+}
